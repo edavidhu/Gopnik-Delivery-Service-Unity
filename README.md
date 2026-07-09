@@ -1,5 +1,4 @@
 # Gopnik-Delivery-Service-Unity
-Arcade stílusú 3D futárszimulátor Unity-ben: AI autós forgalommal, közlekedési szabályokkal, járműfejlesztéssel és dinamikus sérülésmodellel. [100% KÉSZ PROJEKT]
 
 ####  [Gopnik Delivery Service (GDS)] – 3D Arcade Futárszimulátor (Unity / C#) [KÉSZ PROJEKT]
 * Önállóan fejlesztett, arcade stílusú autós csomag- és pizzaszállító játék.
